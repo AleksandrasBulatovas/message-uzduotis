@@ -1,1 +1,1 @@
-# message-uzduotis
+# pranesimu uzduotis
